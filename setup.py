@@ -34,6 +34,6 @@ setup(
     ],
     install_requires=[
         'hidapi>=0.7.99.post21',
-        'PyCRC>=1.21'
+        'PyCRC>=0.9.2'
     ]
 )
